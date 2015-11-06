@@ -126,4 +126,4 @@ PageName = "DUMP1090";
 ShowFlags = true;
 
 // Path to country flags (can be a relative or absolute URL; include a trailing /)
-FlagPath = "flags-tiny/";
+FlagPath = "flags-svg/";
